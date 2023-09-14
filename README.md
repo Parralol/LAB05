@@ -1,6 +1,6 @@
 # LAB05
 
-## INTEGRANTES
-# Santiago Parra
-# Gabriel Alejandro Silva Lozada
+# INTEGRANTES
+### Santiago Parra
+### Gabriel Alejandro Silva Lozada
  
