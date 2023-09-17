@@ -42,4 +42,12 @@
 
       Permite el ingreso de parameteros dentro de la URL para la manipulacion de informacion
       
-      
+      ### PARTE III. - APLICACIÓN MVC PARA CONSUMO DE SERVICIO RESTful
+      Usando la arquitectura MVC del punto anterior (el proyecto anterior), realice una aplicación simple qué permita navegar gráficamente sobre esta API
+          https://jsonplaceholder.typicode.com/todos/1, puede guiarse de tutoriales como [https://medium.com/@nutanbhogendrasharma/consume-rest-api-in-spring
+      boot-web application-354c404850f0](https://medium.com/@nutanbhogendrasharma/consume-rest-api-in-spring-boot-web-application-354c404850f0)
+
+Luego de terminada esta parte responda:
+- ¿Qué es RESTful?
+- Si utilizo un framework como [Boostrap CSS](https://getbootstrap.com/) para qué el apartado gráfico se vea más profesional, ¿en qué capa se haría su uso?
+
