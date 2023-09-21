@@ -52,6 +52,8 @@ Luego de terminada esta parte responda:
     >  es una interfaz que dos sistemas de computación utilizan para intercambiar información de manera segura a través de Internet.
 - Si utilizo un framework como [Boostrap CSS](https://getbootstrap.com/) para qué el apartado gráfico se vea más profesional, ¿en qué capa se haría su uso?
 
+      > en la capa de presentacion
+
 ### PARTE IV. - APLICACIÓN MVC JUEGO
 ¡Llego la hora del reto! Teniendo las bases del uso del framework, cree una nueva ruta, por ejemplo `/guess`, y agrege formulario básico con un campo llamado "número" (guía de como crear formularios HTML https://www.w3schools.com/html/)
 
@@ -64,5 +66,14 @@ se reduce en $10.000, como en los juegos de apuesta, es natural qué quede en sa
 
 Analice las siguientes situaciones:
 - ¿Qué pasa si abro el sitio de juegos en dos navegadores difententes?
+![image](https://github.com/Parralol/LAB05/assets/110953563/7926a485-0c2c-4d5e-8a42-fda34baab817)
+
+
+     > Como podemos observar, los valores se actualizan para ambos jugadores, el jugador de abajo ya habia ganado, sin embargo al jugar mal el jugador de arriba, el puntaje se vio afectado.
+   
+  
 - Si quisiera qué a cada jugador le aparecieran independientemente sus respectivos saldos. ¿Qué habría que hacer?
+  
+  > Buscar alguna manera en la cual el objeto tipo Guess sea ejecutado individualmente por cada usuario, de esta forma cada uno tendria sus propios valores
+  
 
